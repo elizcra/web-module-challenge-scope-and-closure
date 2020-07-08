@@ -25,7 +25,7 @@ There are layers upon layers of nested functions within the game of baseball. Yo
 
 ## Instructions
 
-### Task 1 - Set Up Project and Tests
+### Task 1 - Set Up Project and Tests - Complete
 
 1. Fork repo and add TL as collaborator on Github
 2. Clone _your_ fork (not Lambda's repo by mistake!)
